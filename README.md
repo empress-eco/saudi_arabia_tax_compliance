@@ -1,23 +1,63 @@
 <div align="center">
-
-<!-- TODO: add link to website once it is ready -->
-<h1>KSA</h1>
-
+  <img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="KSA Logo">
+  <p align="center">
+    The perfect tool for businesses in Saudi Arabia simplifying tax compliance and automating tax-related tasks.
+    <br />
+    <a href="https://empress.eco/"><strong>Explore the Documentation »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/empress-eco/saudi_arabia_tax_compliance/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/empress-eco/saudi_arabia_tax_compliance/issues">Request Feature</a>
+  </p>
 </div>
 
+## About The Project
 
-## Introduction
+KSA is a standalone app designed to enhance the Empress software by enabling businesses in Saudi Arabia to align with the regional tax laws and regulations effectively. It reduces the risk of non-compliance and saves time by automating tax-related tasks.
 
-  KSA is an app that enhances the default ERPNext software by adding regional tax compliance for Saudi Arabia. This app makes it easier for businesses operating in Saudi Arabia to comply with local tax laws and regulations, saving time and reducing the risk of non-compliance.
-    
-    
-## What's Included
-   Here is a list of features that are included with the software.
-- Tax Templates(VAT 5%, VAT 15%, VAT 50% etc)
-- Default Tax Accounts settings for company(KSA VAT SETTING)
-- QR Generation (Phase I of E-invoice Compliance)
-- Print Formats (To Print QR on Invoice)
-- Report (VAT Report)
+**Key Features**
 
-## Note 
-   This app was included as a part of ERPNext upto Version 14. We have separated this app out of ERPNext to improve modulatiry. This ensures that users will only have code that is required. 
+- Variety of Tax Templates (including VAT 5%, VAT 15%, VAT 50%, etc.)
+- Default Tax Accounts settings for company-specific to KSA VAT
+- QR Generation for E-invoice Compliance (Phase I)
+- Customizable Print Formats to embed QR codes on Invoices
+- Comprehensive VAT Report
+
+## Getting Started
+
+### Prerequisites
+
+Ensure you have Empress installed as KSA is an extension of this software.
+
+### Installation
+
+Clone the repository to your local machine:
+
+```sh
+git clone https://github.com/empress-eco/saudi_arabia_tax_compliance.git
+```
+
+Follow the installation steps in the documentation for a smooth setup experience.
+
+## Usage
+
+The comprehensive documentation includes usage instructions complete with examples. It provides code snippets and screenshots to illustrate how KSA can simplify the tax compliance process in Saudi Arabia.
+
+## Contributing
+
+We appreciate contributions from the community. Here's how you can contribute:
+
+- Fork the Project
+- Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+- Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+- Push to the Branch (`git push origin feature/AmazingFeature`)
+- Open a Pull Request
+
+## License
+
+This project is under the MIT License. Your contributions are also licensed under the MIT License.
+
+## Acknowledgements
+
+Special thanks to the Empress Community, the architects behind the essential tools that power this project. Their innovation and dedication have been instrumental in building the foundations and functionalities we rely on. We are profoundly grateful for their pioneering work and ongoing support.
